@@ -13,7 +13,7 @@ spec:
     spec:
       fetch:
       - imgpkgBundle:
-          image: ghcr.io/alexandreroman/metallb-tanzu-extra@sha256:4512d67a489417580049551a7b4bf4d3f8e99c22b6cc3255988272133a74fa9b
+          image: ghcr.io/hadrouj/metallb-tanzu-extra@sha256:4512d67a489417580049551a7b4bf4d3f8e99c22b6cc3255988272133a74fa9b
       template:
       - ytt:
           paths:

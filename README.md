@@ -13,7 +13,7 @@ use these packages at your own risk.
 Run this command to connect your Tanzu Kubernetes distribution to this package repository:
 
 ```shell
-tanzu package repository add tanzu-extra --namespace tanzu-package-repo-global --url ghcr.io/alexandreroman/tanzu-extra-repo:stable
+tanzu package repository add tanzu-extra --namespace tanzu-package-repo-global --url ghcr.io/hadrouj/tanzu-extra-repo:stable
 ```
 
 After a few minutes, you should be able to list available packages:
@@ -39,7 +39,7 @@ SHORT-DESCRIPTION:    A LoadBalancer implementation for Kubernetes
 PACKAGE-PROVIDER:     Tanzu Extra Package Repository
 LONG-DESCRIPTION:     A LoadBalancer implementation for Kubernetes
 MAINTAINERS:          [{Alexandre Roman}]
-SUPPORT:              Go to github.com/alexandreroman/metallb-tanzu-extra for documentation
+SUPPORT:              Go to github.com/hadrouj/metallb-tanzu-extra for documentation
 CATEGORY:             [networking]
 ```
 

@@ -13,7 +13,7 @@ spec:
     spec:
       fetch:
       - imgpkgBundle:
-          image: ghcr.io/alexandreroman/kube-vip-tanzu-extra@sha256:40adf0074f1b69e250bccf92454ab759511013ba35d011824a199cac864cdf97
+          image: ghcr.io/hadrouj/kube-vip-tanzu-extra@sha256:40adf0074f1b69e250bccf92454ab759511013ba35d011824a199cac864cdf97
       template:
       - ytt:
           paths:

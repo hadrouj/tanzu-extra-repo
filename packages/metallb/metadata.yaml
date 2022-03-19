@@ -11,4 +11,4 @@ spec:
   - name: Alexandre Roman
   categories:
   - networking
-  supportDescription: "Go to github.com/alexandreroman/metallb-tanzu-extra for documentation"
+  supportDescription: "Go to github.com/hadrouj/metallb-tanzu-extra for documentation"

@@ -6,7 +6,7 @@ directories:
   contents:
   - path: .
     git:
-      url: https://github.com/alexandreroman/metallb-tanzu-extra.git
+      url: https://github.com/hadrouj/metallb-tanzu-extra.git
       ref: f11f98450b04393a9b91955f74ffb6d74a6ee0ca
     includePaths:
     - metadata.yaml
@@ -16,7 +16,7 @@ directories:
   contents:
   - path: .
     git:
-      url: https://github.com/alexandreroman/kube-vip-tanzu-extra.git
+      url: https://github.com/hadrouj/kube-vip-tanzu-extra.git
       ref: adfff3321d479b6eaa47c5b0ef20c5c2adc61cd1
     includePaths:
     - metadata.yaml

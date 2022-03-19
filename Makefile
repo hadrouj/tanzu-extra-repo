@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 REQUIRED_BINARIES := imgpkg kbld ytt vendir
-OCI_IMAGE := ghcr.io/alexandreroman/tanzu-extra-repo
+OCI_IMAGE := ghcr.io/hadrouj/tanzu-extra-repo
 
 clean:
 	/bin/rm -rf generated
